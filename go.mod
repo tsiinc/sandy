@@ -1,3 +1,3 @@
-module source.cloud.google.com/dj-build/sandy
+module github.com/tsiinc/sandy
 
 go 1.12
